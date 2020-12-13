@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Contacted</title>
+</head>
+<body>
+<center>
 <?php
 	if(isset($_POST['submit'])){
 		$name=$_POST['name'];
@@ -10,15 +17,15 @@
 		$headers="From: ".$email;
 
 		if(mail($to, $subject, $message, $headers)){
-		    echo "
-    <img class=\"lg:w-2/6 md:w-3/6 w-5/6 mb-10 object-cover object-center rounded\" alt=\"successful\" src=\"https://photonscienceclub.000webhostapp.com/img/bat-thanks.png\">";
-			echo "<h1 class=\"text-lg text-green-500\">Sent Successfully! Thank you".$name.", We will contact you shortly!</h1>\n";
+		    echo '<h1 style="background: rgba(0, 225, 20, 0.4); color: forestgreen; padding: 10px 30px;">Sent Successfully! Thank you' . $name . ', Mahfuzul Hasan will contact you shortly!</h1>';
 		}
 		else{
-		    echo "
-    <img class=\"lg:w-2/6 md:w-3/6 w-5/6 mb-10 object-cover object-center rounded\" alt=\"successful\" src=\"https://photonscienceclub.000webhostapp.com/img/something-went-wrong.png\">";
-			
-			echo "<h1 class=\"text-red-500\">Something went wrong!</h1>";
+		    echo '<h1 style="background: rgba(225, 20, 20, 0.4); color: red; padding: 10px 30px;">Something went wrong! Try again later...</h1>';
 		}
 	}
 ?>
+<b>
+<a href="index.html">Return to Homepage</a>
+</center>
+</body>
+</html>
