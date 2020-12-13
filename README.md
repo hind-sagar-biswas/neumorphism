@@ -1,4 +1,6 @@
 # Neumorphism
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 ![Neumorphism by Hind](https://github.com/hind-sagar-biswas/neumorphism/blob/main/img/neumorphism.png)
 **Description:** A Neumorphic designed one pager Website template, fully on raw CSS
 ## Color pallet
