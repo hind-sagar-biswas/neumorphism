@@ -1,4 +1,5 @@
 # Neumorphism
+![Neumorphism by Hind](https://github.com/hind-sagar-biswas/neumorphism/blob/main/img/neumorphism.png)
 **Description:** A Neumorphic designed one pager Website template, fully on raw CSS
 ## Color pallet
 **Background:** #ededed
