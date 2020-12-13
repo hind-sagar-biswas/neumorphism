@@ -16,7 +16,7 @@
 **Dark Shadow:** #a2a2a2
 
 ## License
-The template has been licensed under **GNU AGPLv3**
+The template has been licensed under **GNU GPLv3**
 
 ## Author
 _Hind Sagar Biswas_
