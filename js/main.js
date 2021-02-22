@@ -1,7 +1,7 @@
 //SELECTORS
 const nameInput = document.getElementById('nameInp');
 const nameDisplay = document.getElementById('contactName');
-const clockDiv = document.getElementById('clockDisplay');
+const clock = document.getElementById('clockDisplay');
 
 //FUNCTIONS
 function updateName() {
@@ -34,7 +34,7 @@ function displayTime(){
 		seconds = "0" + seconds;
 	}
 
-	clockDiv.innerText = hours + ":" + minutes + ":" + seconds + " " + meridiem;
+	clock.innerHTML = hours + ":" + minutes + ":" + seconds + " " + meridiem;
 }
 
 //INVOKES
