@@ -5,7 +5,11 @@ const clock = document.getElementById('clockDisplay');
 
 //FUNCTIONS
 function updateName() {
-  nameDisplay.innerHTML = ', ' + nameInput.value;
+	if(nameInput.value != '') {
+		nameDisplay.innerHTML = ', ' + nameInput.value.split(' ')[0];
+	}else {
+		nameDisplay.innerHTML = '';
+	}
 }
 
 function displayTime(){
@@ -36,6 +40,9 @@ function displayTime(){
 
 	clock.innerHTML = hours + ":" + minutes + ":" + seconds + " " + meridiem;
 }
+
+//Main Flow
+clock.style.color = "grey";
 
 //INVOKES
 setInterval(displayTime, 500);
