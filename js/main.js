@@ -1,8 +1,41 @@
 //SELECTORS
 const nameInput = document.getElementById('nameInp');
 const nameDisplay = document.getElementById('contactName');
+const clockDiv = document.getElementById('clockDisplay');
 
 //FUNCTIONS
 function updateName() {
   nameDisplay.innerHTML = ', ' + nameInput.value;
 }
+
+function displayTime(){
+
+	var currentTime = new Date(); //Initializing current time
+	var hours = currentTime.getHours(); //Initializing current hour
+	var minutes = currentTime.getMinutes(); //Initializing current minute
+	var seconds = currentTime.getSeconds(); //Initializing current seconds
+	var meridiem = "AM"; //Set default value for meridiem
+
+	if(hours > 12){
+		hours = hours - 12;
+		meridiem = "PM";
+	}
+
+	if(hours === 0){
+		hours = 12;
+	}
+	if(hours < 10){
+		hours = "0" + hours;
+	}
+	if(minutes < 10){
+		minutes = "0" + minutes;
+	}
+	if (seconds < 10) {
+		seconds = "0" + seconds;
+	}
+
+	clockDiv.innerText = hours + ":" + minutes + ":" + seconds + " " + meridiem;
+}
+
+//INVOKES
+setInterval(displayTime, 500);
