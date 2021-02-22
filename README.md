@@ -19,17 +19,17 @@ The website layout is fully mobile responsive.
 ## Color pallet
 **Background:** #ededed
 
-**Secondary Texts:** #666666
+**Secondary Texts:** `#666666`
 
-**Pink Gradient:** #ff555f, #ff55b3
+**Pink Gradient:** `#ff555f, #ff55b3`
 
-**Blue Gradient:** #40b6ff, #95ffe0
+**Blue Gradient:** `#40b6ff, #95ffe0`
 
-**Green Gradient:** #1ec600, #d9ff40
+**Green Gradient:** `#1ec600, #d9ff40`
 
-**Light Shadow:** #ffffff
+**Light Shadow:** `#ffffff`
 
-**Dark Shadow:** #a2a2a2
+**Dark Shadow:** `#a2a2a2`
 
 ## License
 The template has been licensed under `GNU GPLv3`
