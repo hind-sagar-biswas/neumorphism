@@ -1,0 +1,6 @@
+const nameInput = document.getElementByName('name');
+const nameDisplay = document.getElementById('contactName');
+
+function updateName() {
+  nameDisplay.innerHTML = ', ' + nameInput.value;
+}

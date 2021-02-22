@@ -78,13 +78,14 @@
 		</section>
 		
 		<section class="form">
-				<h1>Contact Me</h1>
+				<h1>Contact Me <span id="contactName"></span></h1>
 				<form action="mail.php" method="POST">
-						<input type="text" name="name" placeholder="Your Name">
-						<input type="email" name="email" placeholder="youremail@example.com">
-						<textarea name="msg"  placeholder="your message"></textarea>
+						<input type="text" name="name" placeholder="Your Name" autocomplete="off" oninput="updateName()" required>
+						<input type="email" name="email" placeholder="youremail@example.com" autocomplete="off" required>
+						<textarea name="msg"  placeholder="your message" required></textarea>
 						<button name="submit" type="submit">SEND</button>
 				</form>
 		</section>
+<script src="js/main.js"></script>
 </body>
 </html>
