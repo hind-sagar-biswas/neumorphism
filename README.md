@@ -24,13 +24,13 @@ A Neumorphic designed one pager Website template, fully on raw CSS.
 
 ## Clone Repo
 
-### Github CLI
+#### Github CLI
 
 ```
 gh repo clone hind-sagar-biswas/neumorphism
 ```
 
-### HTTPS
+#### HTTPS
 
 ```
 https://github.com/hind-sagar-biswas/neumorphism.git
@@ -72,9 +72,11 @@ You're now ready to go!
 **Dark Shadow:** `#a2a2a2`
 
 ## License
-The template has been licensed under `GNU GPLv3`
+
+The template has been licensed under `GNU GPLv3` open source license.
 
 ## Author
+
 _Hind Sagar Biswas_
 
 Website: [thecoderaptors.cf](https://thecoderaptors.cd/)
