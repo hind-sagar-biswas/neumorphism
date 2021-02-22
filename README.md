@@ -98,7 +98,7 @@ Permissions of this strong copyleft license are conditioned on making available 
 
 ##### Permissions
 
-:white_check_mark: Commercial use
+- [X] Commercial use
 
 :white_check_mark: Modification
 
