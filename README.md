@@ -1,6 +1,10 @@
 # Neumorphism
+
+![Project Type](https://img.shields.io/badge/type-website%20template-blue)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/hind-sagar-biswas/neumorphism)
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/hind-sagar-biswas/neumorphism/blob/main/LICENSE)
+![PRs welcome](https://img.shields.io/badge/PRs-welcome-orange)
+![ask me anything](https://img.shields.io/badge/Ask%20me-anything-green)
 
 ![Neumorphism by Hind](https://github.com/hind-sagar-biswas/neumorphism/blob/main/img/neumorphism.png)
 
