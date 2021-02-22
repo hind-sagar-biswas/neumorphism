@@ -22,6 +22,20 @@ A Neumorphic designed one pager Website template, fully on raw CSS.
 
 1. Fully mobile responsive design
 
+## Clone Repo
+
+### Github CLI
+
+```
+gh repo clone hind-sagar-biswas/neumorphism
+```
+
+### HTTPS
+
+```
+https://github.com/hind-sagar-biswas/neumorphism.git
+```
+
 ## Contact System Setup
 
 1. Open `mail.php` which is in the root directory.
