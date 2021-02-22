@@ -1,6 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta charset="utf-8">
+    <meta name="language" content="english"> 
+    <meta http-equiv="content-type" content="text/html">
+    
+    <meta name="format-detection" content="telephone=yes"/>
+    <meta name="HandheldFriendly" content="true"/> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    
 		<title>Neumorphism</title>
 		<!-- FONT-AWESOME -->
 				<link rel="stylesheet"  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
@@ -80,7 +88,7 @@
 		<section class="form">
 				<h1>Contact Me <span id="contactName"></span></h1>
 				<form action="mail.php" method="POST">
-						<input type="text" name="name" placeholder="Your Name" autocomplete="off" oninput="updateName()" required>
+						<input type="text" name="name" id="nameInp" placeholder="Your Name" autocomplete="off" oninput="updateName()" required>
 						<input type="email" name="email" placeholder="youremail@example.com" autocomplete="off" required>
 						<textarea name="msg"  placeholder="your message" required></textarea>
 						<button name="submit" type="submit">SEND</button>
