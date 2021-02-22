@@ -100,13 +100,13 @@ Permissions of this strong copyleft license are conditioned on making available 
 
 - [X] Commercial use
 
-:white_check_mark: Modification
+- [X] Modification
 
-:white_check_mark: Distribution
+- [X] Distribution
 
-:white_check_mark: Patent use
+- [X] Patent use
 
-:white_check_mark: Private use
+- [X] Private use
 
 ##### Limitations
 
