@@ -110,19 +110,19 @@ Permissions of this strong copyleft license are conditioned on making available 
 
 ##### Limitations
 
-:x: Liability
+- [ ] Liability
 
-:x: Warranty
+- [ ] Warranty
 
 ##### Conditions
 
-:exclamation: License and copyright notice
+- [X] License and copyright notice
 
-:exclamation: State changes
+- [X] State changes
 
-:exclamation: Disclose source
+- [X] Disclose source
 
-:exclamation: Same license
+- [X] Same license
 
 ## Author
 
