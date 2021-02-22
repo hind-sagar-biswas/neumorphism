@@ -3,12 +3,15 @@
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
 ![Neumorphism by Hind](https://github.com/hind-sagar-biswas/neumorphism/blob/main/img/neumorphism.png)
+
 ## Description
+
 A Neumorphic designed one pager Website template, fully on raw CSS.
 There's a profile picture with an animated glowing border, social link buttons, contact Informations, skills with glowing progress bars and a 
 Contact Form.
 
-The website is fully mobile responsive.
+The website layout is fully mobile responsive.
+
 ## Screenshots
 ![Screenshot 1](https://github.com/MAHFUZ-004/neumorphism/blob/main/img/n01.png)
 
@@ -29,7 +32,7 @@ The website is fully mobile responsive.
 **Dark Shadow:** #a2a2a2
 
 ## License
-The template has been licensed under **GNU GPLv3**
+The template has been licensed under `GNU GPLv3`
 
 ## Author
 _Hind Sagar Biswas_
