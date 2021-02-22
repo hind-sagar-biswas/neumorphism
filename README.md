@@ -4,6 +4,19 @@
 
 ![Neumorphism by Hind](https://github.com/hind-sagar-biswas/neumorphism/blob/main/img/neumorphism.png)
 
+## Table Of Content
+
+No|Title
+----|----
+1|[Description](https://github.com/hind-sagar-biswas/neumorphism#Description)
+2|[Features](https://github.com/hind-sagar-biswas/neumorphism#Features)
+3|[Clone Repo](https://github.com/hind-sagar-biswas/neumorphism#clone-repo)
+4|[Contact System Setup](https://github.com/hind-sagar-biswas/neumorphism#contact-system-setup)
+5|[Screenshots](https://github.com/hind-sagar-biswas/neumorphism#Screenshots)
+6|[Color Palette](https://github.com/hind-sagar-biswas/neumorphism#color-pallete)
+7|[License](https://github.com/hind-sagar-biswas/neumorphism#License)
+8|[Author](https://github.com/hind-sagar-biswas/neumorphism#Author)
+
 ## Description
 
 A Neumorphic designed one pager Website template, fully on raw CSS.
@@ -56,7 +69,9 @@ You're now ready to go!
 ![Screenshot 1](https://github.com/MAHFUZ-004/neumorphism/blob/main/img/n01.png)
 
 ![Screenshot 2](https://github.com/MAHFUZ-004/neumorphism/blob/main/img/n02.png)
-## Color pallet
+
+## Color pallete
+
 **Background:** `#ededed`
 
 **Secondary Texts:** `#666666`
