@@ -95,19 +95,32 @@ The template has been licensed under `GNU GPLv3` open source license.
 Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
 
 ##### Permissions
-- [X] Commercial use
-- [X] Modification
-- [X] Distribution
-- [X] Patent use
-- [X] Private use
+
+:white_check_mark: Commercial use
+
+:white_check_mark: Modification
+
+:white_check_mark: Distribution
+
+:white_check_mark: Patent use
+
+:white_check_mark: Private use
+
 ##### Limitations
-- [ ] Liability
-- [ ] Warranty
+
+:x: Liability
+
+:x: Warranty
+
 ##### Conditions
-- [X] License and copyright notice
-- [X] State changes
-- [X] Disclose source
-- [X] Same license
+
+:exclamation: License and copyright notice
+
+:exclamation: State changes
+
+:exclamation: Disclose source
+
+:exclamation: Same license
 
 ## Author
 
